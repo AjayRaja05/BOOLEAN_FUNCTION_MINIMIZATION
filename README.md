@@ -41,6 +41,8 @@ Developed by: T AjayRaja Rathinam
 
 Register no: 212224240006
 
+Truth table
+
 ![Screenshot 2025-04-21 221724](https://github.com/user-attachments/assets/35538332-0f61-41cc-a43d-e2f29d54a098)
 
 
@@ -55,11 +57,6 @@ Register no: 212224240006
 
 ![Screenshot 2025-04-21 222003](https://github.com/user-attachments/assets/e8c22b54-61cb-4065-adb1-e2e405ce565a)
 
-
-
-**RTL**
-
-**Timing Diagram**
 
 **Result:**
 
